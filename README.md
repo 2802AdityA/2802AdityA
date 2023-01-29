@@ -15,7 +15,7 @@
 <span style="font-size: 18px">
 <p >
 
-- 👨‍🎓 B.Tech Freshman major in **Information Technology**
+- 👨‍🎓 B.Tech Sophomore major in **Information Technology**
 
 - 👨‍💻 Currently working on **MERN Stack Projects**
 
