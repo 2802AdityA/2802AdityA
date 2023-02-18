@@ -4,9 +4,6 @@
 <!-- h -->
 <span style="color:#39FF14"><h2 align="center" color="#39FF14">A Keen Learner | Web Developer | Open Source Enthusiast </h2></span>
 
-<div>
-<img align="right" alt="coding" width="400" src="Assets/chellocat.png">
-</div>
 <h2>
 
 🙋🏻‍♂️ About Me
