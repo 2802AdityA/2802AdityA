@@ -1,32 +1,12 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 
 <h1 align="center"> Hey, I am Aditya!</h1>
-<!-- h -->
-<span style="color:#39FF14"><h2 align="center" color="#39FF14">A Keen Learner | Web Developer | Open Source Enthusiast </h2></span>
 
-<h2>
+<span style="color:#39FF14"><h2 align="center" color="#39FF14">Learner | Developer</h2></span>
 
-🙋🏻‍♂️ About Me
 
-</h2>
-<span style="font-size: 18px">
-<p >
 
-- 👨‍🎓 B.Tech Sophomore major in **Information Technology**
 
-- 👨‍💻 Currently working on **MERN Stack Projects**
-
-- 📝 Practicing DSA in **JAVA**
-
-- 🔍 Exploring some open source projects to collaborate
-
-- 🤝🏼 Open for Collaborations
-
-- ✨ Fun fact: **I debug until bugs kill me or I kill the bugs**
-
-</p>
-</span>
-</br>
 
 <h2>
 
@@ -64,20 +44,11 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasingla2802/)](https://www.linkedin.com/in/adityasingla2802/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singlaaditya/)](https://www.linkedin.com/in/adityasingla2802/)
 [![Instagram Badge](https://img.shields.io/badge/-ad1tya.28-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ad1tya.28/)](https://instagram.com/ad1tya.28)
 [![Twitter Badge](https://img.shields.io/badge/-2802AdityA-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2802AdityA/)](https://twitter.com/2802AdityA/)
 [![Gmail Badge](https://img.shields.io/badge/adityasingla.2802@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:adityasingla.2802@gmail.com)](mailto:adityasingla.2802@gmail.com)
 
  </p>
 </br>
-<h2>📈 Github Stats</h2>
 
-<p >
-
-<a href="https://github.com/2802AdityA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2802AdityA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2802AdityA&theme=algolia&hide=c%2B%2B&layout=compact"/>
-</a>
-
-</p>
