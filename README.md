@@ -44,7 +44,7 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singlaaditya/)](https://www.linkedin.com/in/adityasingla2802/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Singla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singlaaditya/)](https://www.linkedin.com/in/singlaaditya/)
 [![Instagram Badge](https://img.shields.io/badge/-ad1tya.28-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ad1tya.28/)](https://instagram.com/ad1tya.28)
 [![Twitter Badge](https://img.shields.io/badge/-2802AdityA-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2802AdityA/)](https://twitter.com/2802AdityA/)
 [![Gmail Badge](https://img.shields.io/badge/adityasingla.2802@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:adityasingla.2802@gmail.com)](mailto:adityasingla.2802@gmail.com)
